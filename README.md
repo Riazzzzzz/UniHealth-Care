@@ -77,30 +77,30 @@ Doctors List:
 
 
 Plugins used in this website:
- Elementor
- ElementsKit Lite
- Essential Addons for Elementor
- Essential Blocks
- Hide Admin Bar From Front End
- Join.chat
- LiteSpeed Cache
- Site Reviews
- Salon Booking Wordpress Plugin - Free Version
- Ultimate Member
- WP Mail SMTP
- WPFront Scroll Top
- PRO Elements
+1. Elementor
+2. ElementsKit Lite
+3. Essential Addons for Elementor
+4. Essential Blocks
+5. Hide Admin Bar From Front End
+6. Join.chat
+7. LiteSpeed Cache
+8. Site Reviews
+9. Salon Booking Wordpress Plugin - Free Version
+10. Ultimate Member
+11. WP Mail SMTP
+12 WPFront Scroll Top
+13. PRO Elements
 
 
 
 Implemented Tools:
-XAMPP
-Apache
-MySQL
-WordPress
-PHP
-Adobe Photoshop
-Adobe Illustrator
+1. XAMPP
+2. Apache
+3. MySQL
+4. WordPress
+5. PHP
+10. Adobe Photoshop
+11. Adobe Illustrator
 
 
 
